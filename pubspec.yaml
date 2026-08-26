@@ -1,0 +1,28 @@
+name: pengaduan_siswa_app
+description: Aplikasi Pengaduan Sarana Sekolah - Sisi Siswa
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  firebase_core: ^2.24.2
+  cloud_firestore: ^4.13.6
+  intl: ^0.18.1
+  image_picker: ^1.0.7
+  video_player: ^2.9.2
+  fl_chart: ^0.68.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo_sekolah.png
+    - assets/videos/background.mp4
