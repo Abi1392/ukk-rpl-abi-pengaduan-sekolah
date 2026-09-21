@@ -1,8 +1,8 @@
 # UKK RPL — Aplikasi Pengaduan Sekolah
 
 ## Identitas Project
-- **Nama Peserta:** [isi nama lengkap]
-- **Kelas:** [isi kelas]
+- **Nama Peserta:** [Abi Lutdfiansyah Said]
+- **Kelas:** [XII RPL 2]
 - **Judul Project:** Aplikasi Pengaduan Sekolah — SMA SEWON
 - **Studi Kasus:** Sistem pengaduan/aspirasi siswa di lingkungan sekolah
 
