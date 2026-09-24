@@ -1,3 +1,8 @@
+// ============================================================
+// MODEL: Admin
+// ------------------------------------------------------------
+// Data akun admin (pengelola tertinggi aplikasi) untuk proses login.
+// ============================================================
 class Admin {
   final String username;
   final String password;
